@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Testimonial-Grid-Section](https://https://github.com/Denaro13/Testimomials-Grid-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testimonial-grid-display](https://https://testimonial-grid-display.netlify.app/)
 
 ### Built with
 
